@@ -1,0 +1,18 @@
+HTTP/1.1 100 
+
+HTTP/1.1 500 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 02 Jul 2026 12:20:30 GMT
+Connection: close
+
+{"error":"Deployment failed: C:\\Users\\sarve\\AppData\\Local\\Temp\\firstgit-deploy-17675579108856170427\\node_modules\\.vite\\deps"}
