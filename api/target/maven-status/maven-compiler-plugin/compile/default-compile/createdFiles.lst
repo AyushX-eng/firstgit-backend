@@ -1,0 +1,7 @@
+com\firstgit\api\controller\FileUploadController.class
+com\firstgit\api\controller\AuthController.class
+com\firstgit\api\service\ZipProcessingService.class
+com\firstgit\api\ApiApplication.class
+com\firstgit\api\config\SecurityConfig.class
+com\firstgit\api\controller\DeploymentController$1.class
+com\firstgit\api\controller\DeploymentController.class
